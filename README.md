@@ -1,0 +1,2 @@
+# palindromo
+Palíndromo en c++
